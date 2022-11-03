@@ -25,7 +25,7 @@ namespace MyApp
 
             Console.WriteLine($"{prviInt}/{drugiInt}={kolicnik1}");
             Console.WriteLine($"{prviFloat}/{drugiFloat}={kolicnik2}");
-            Console.WriteLine(kolicnik1.ToString);
+            Console.WriteLine(kolicnik1);
             Console.ReadLine();
 
 
